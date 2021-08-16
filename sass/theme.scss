@@ -1,0 +1,112 @@
+@import "./color.scss";
+
+@font-face {
+    font-family: "nexa-bold";
+
+    src: url("../font/Nexa\ Bold.otf");
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: "Nexa-light";
+
+    src: url("../font/Nexa\ Light.otf");
+    font-weight: 100;
+}
+
+
+
+
+
+
+@media (max-width: 767px){
+h1{
+    font-family: "Nexa-bold";
+   font-size: 2rem;
+   color: $darkblue;
+
+}
+
+p{
+    font-family: "Nexa-light";
+    color: $nexa-light;
+    text-align: center;
+}
+input {
+    font-family: "Nexa-light";
+}
+
+
+button {
+    font-family: "Nexa-light";
+}
+/* section2*/
+h2{
+    font-family: "Nexa-bold";
+    
+    color:$darkblue;
+}
+
+.button2{
+    font-family:"Nexa-bold";
+
+}
+
+.button2{
+    font-family: "Nexa-bold";
+
+    color:$darkblue;
+
+}
+
+.button02{
+    font-family: "Nexa-bold";
+
+}
+
+h3{
+    color: $blue;
+    font-family: "nexa-bold";
+}
+
+.section-4-h3{
+    color: $whitecolor;
+    text-align: left;
+    margin-left: 5%;
+}
+
+.section-4-p{
+    color: $whitecolor;
+    text-align: left;
+    margin-left: 5%;
+}
+
+
+
+h4{
+    font-family: "Nexa-light";
+}
+
+.text{
+    color: $whitecolor;
+}
+.survices{
+    font-family: "Nexa-bold";
+    color: $dark-gray;
+}
+
+.section6-h2-tag{
+    color: $whitecolor;
+}
+.section6-p-tag{
+    color: $dark-gray;
+}
+.section6button{
+    background-color: $blue;
+    color: $whitecolor;
+    font-size: 1rem;
+    height: 20%;
+}
+
+
+}

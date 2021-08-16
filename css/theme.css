@@ -1,0 +1,61 @@
+@font-face {
+  font-family: "nexa-bold";
+  src: url("../font/Nexa Bold.otf");
+  font-weight: 100; }
+
+@font-face {
+  font-family: "Nexa-light";
+  src: url("../font/Nexa Light.otf");
+  font-weight: 100; }
+
+@media (max-width: 767px) {
+  h1 {
+    font-family: "Nexa-bold";
+    font-size: 2rem;
+    color: #151e3b; }
+  p {
+    font-family: "Nexa-light";
+    color: #293357;
+    text-align: center; }
+  input {
+    font-family: "Nexa-light"; }
+  button {
+    font-family: "Nexa-light"; }
+  /* section2*/
+  h2 {
+    font-family: "Nexa-bold";
+    color: #151e3b; }
+  .button2 {
+    font-family: "Nexa-bold"; }
+  .button2 {
+    font-family: "Nexa-bold";
+    color: #151e3b; }
+  .button02 {
+    font-family: "Nexa-bold"; }
+  h3 {
+    color: #0173b2;
+    font-family: "nexa-bold"; }
+  .section-4-h3 {
+    color: #ffffffff;
+    text-align: left;
+    margin-left: 5%; }
+  .section-4-p {
+    color: #ffffffff;
+    text-align: left;
+    margin-left: 5%; }
+  h4 {
+    font-family: "Nexa-light"; }
+  .text {
+    color: #ffffffff; }
+  .survices {
+    font-family: "Nexa-bold";
+    color: #6f6060; }
+  .section6-h2-tag {
+    color: #ffffffff; }
+  .section6-p-tag {
+    color: #6f6060; }
+  .section6button {
+    background-color: #0173b2;
+    color: #ffffffff;
+    font-size: 1rem;
+    height: 20%; } }

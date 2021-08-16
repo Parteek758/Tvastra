@@ -1,0 +1,50 @@
+/*section1*/
+.section1 {
+  height: 25em;
+  width: 100%;
+  background-color: #93bede;
+  display: flex;
+  justify-content: space-around; }
+  .section1 div {
+    width: 90%;
+    height: 100%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center; }
+  .section1 .placeholder {
+    display: flex; }
+  .section1 .button1-maping {
+    height: 25%;
+    width: 99%;
+    display: flex;
+    align-items: center; }
+  .section1 .maping {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    background-color: #ffffffff; }
+    .section1 .maping i {
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      align-items: center;
+      height: 100%;
+      width: 10%; }
+
+input {
+  width: 100%;
+  height: 2rem; }
+
+button {
+  height: 2rem;
+  width: 40%;
+  background-color: #151e3b;
+  color: #ffffffff;
+  border: none; }
+
+.input-type {
+  width: 100%;
+  height: 25%; }

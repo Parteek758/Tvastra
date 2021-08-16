@@ -1,0 +1,39 @@
+@import "./color.scss";
+
+
+.section4{
+    height: 150rem;
+    width: 100%;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.Treatment{
+    width: 95%;
+    height: 95%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.Patient{
+    height:16%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    background-size: 100% 100%;
+   
+   
+}
+
+.Specialists{
+    background-color: $nave-blue;
+    height: 20%;
+    line-height: 10px;
+   border-color: -linear-gradient( to top, #555555  50%, #111111) 50%;   
+}
+
+    

@@ -1,0 +1,11 @@
+nav {
+  height: 2rem;
+  width: 100%;
+  display: flex;
+  justify-content: center; }
+  nav .logo {
+    width: 90%;
+    display: flex; }
+  nav img {
+    height: 80%;
+    width: 25%; }

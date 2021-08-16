@@ -1,0 +1,37 @@
+.section6 {
+  height: 15rem;
+  width: 100%;
+  background-color: #93bede;
+  color: #ffffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; }
+
+.section6button {
+  border: none;
+  padding: 10px; }
+
+/*footer*/
+.footer {
+  height: 40nrem;
+  width: 100%;
+  background-color: #151e3b;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  text-align: center; }
+  .footer img {
+    width: 50%; }
+  .footer h4 {
+    color: #d2d2d2; }
+  .footer p {
+    color: #d2d2d2; }
+
+.fountaswome {
+  height: 10%;
+  width: 60%;
+  color: #d2d2d2;
+  display: flex;
+  justify-content: space-evenly; }

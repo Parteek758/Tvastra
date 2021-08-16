@@ -1,0 +1,55 @@
+@import "./color.scss";
+
+
+.section6{
+    height: 15rem;
+    width: 100%;
+    background-color:$lightblue ;
+    color: $whitecolor;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.section6button{
+    border: none;
+    padding: 10px;
+}
+
+/*footer*/
+
+
+.footer{
+    height: 40nrem;
+    width: 100%;
+    background-color: $darkblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: center;
+
+
+    img{
+        width: 50%;
+    }
+    h4{
+        color: $light-gray;
+    }
+
+    p{
+        color: $light-gray;
+    }
+
+
+}
+.fountaswome{
+    height: 10%;
+    width: 60%;
+    color: $light-gray;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
